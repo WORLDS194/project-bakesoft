@@ -26,7 +26,6 @@ modules:
         - python3-jupyterlab
         - git
         - micro
-        - starship
         - ffmpeg-free
         - htop
         - openssh-server
